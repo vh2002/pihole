@@ -22,6 +22,11 @@
 #0.0.0.0 europe-west1-gcp.api.snapchat.com #Senden, etc.
 #0.0.0.0 us-central1-gcp.api.snapchat.com #Senden, etc.
 #0.0.0.0 cf-st.sc-cdn.net #Stories
+#0.0.0.0 feelinsonice.l.google.com #Funktionalität
+#0.0.0.0 feelinsonice.appspot.com #Funktionalität
+#0.0.0.0 feelinsonice-hrd.appspot.com #Funktionalität
+#0.0.0.0 feelinsonice.com #Funktionalität
+#0.0.0.0 feelinsonice.appspot.com #Funktionalität
 
 # Snapchat Login
 #0.0.0.0 pro-accounts.snapchat.com
@@ -31,7 +36,7 @@
 #0.0.0.0 api.snapkit.com
 #0.0.0.0 internal-api.snapkit.com
 
-# Other
+# Other (Blocklist)
 0.0.0.0 sc-cdn.net
 0.0.0.0 jaguar-prod.snapchat.com
 0.0.0.0 st.sc-jpl.com
@@ -49,11 +54,6 @@
 0.0.0.0 map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com
 0.0.0.0 snapchat.appspot.com
 0.0.0.0 sc-analytics.appspot.com
-0.0.0.0 feelinsonice.l.google.com
-0.0.0.0 feelinsonice.appspot.com
-0.0.0.0 feelinsonice-hrd.appspot.com
-0.0.0.0 feelinsonice.com
-0.0.0.0 feelinsonice.appspot.com
 0.0.0.0 appspot.l.google.com
 0.0.0.0 data.flurry.com
 0.0.0.0 ase.adserver.snapads.com
