@@ -1,6 +1,6 @@
 # This blocklist blocks Snapchat Ads and Analytics
 #
-# Date: 24 April 2021 17:55:00 (CET)
+# Date: 25 March 2021 14:40:00 (CET)
 # ===============================================================
 
 
@@ -62,7 +62,6 @@
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-analytics-v2.snapchat.com
-0.0.0.0 app.snapchat.com
 0.0.0.0 analytics.snapchat.com
 0.0.0.0 gtq.sct.sc-prod.ne
 0.0.0.0 tib.snssdk.com
