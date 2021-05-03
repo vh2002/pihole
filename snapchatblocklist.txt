@@ -1,6 +1,6 @@
 # This blocklist blocks Snapchat Ads and Analytics
 #
-# Date: 25 March 2021 14:40:00 (CET)
+# Date: 03 May 2021 09:12:00 (CET)
 # ===============================================================
 
 
