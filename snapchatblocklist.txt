@@ -65,7 +65,7 @@
 0.0.0.0 analytics.snapchat.com
 0.0.0.0 gtq.sct.sc-prod.ne
 0.0.0.0 tib.snssdk.com
-#0.0.0.0 webattachments.snapchat.com (Storie Webseiten)
+#0.0.0.0 webattachments.snapchat.com #Stories Webseiten Verlinkung
 0.0.0.0 d3cwhzzyyewihk.cloudfront.net
 0.0.0.0 eu-west1-aws.duplex.sc-gw.com
 0.0.0.0 snapchat-proxy.appspot.com
