@@ -43,9 +43,9 @@
 0.0.0.0 gtq.sct.sc-prod.net
 0.0.0.0 gtq6.sct.sc-prod.net
 0.0.0.0 am-prod.sc-jpl.com
-0.0.0.0 us-east1-aws.api.snapchat.com
+#0.0.0.0 us-east1-aws.api.snapchat.com
 0.0.0.0 api.snapchat.com
-0.0.0.0 us-east1-aws.api.sc-gw.com
+#0.0.0.0 us-east1-aws.api.sc-gw.com
 0.0.0.0 snap-storage-cdn.l.google.com
 0.0.0.0 st-lb.sc-jpl.com
 0.0.0.0 loc.sc-jpl.com
@@ -66,8 +66,8 @@
 0.0.0.0 gtq.sct.sc-prod.ne
 0.0.0.0 tib.snssdk.com
 #0.0.0.0 webattachments.snapchat.com #Stories Webseiten Verlinkung
-#0.0.0.0 d3cwhzzyyewihk.cloudfront.net
-0.0.0.0 eu-west1-aws.duplex.sc-gw.com
+#0.0.0.0 d3cwhzzyyewihk.cloudfront.net #Stories Webseiten Verlinkung
+#0.0.0.0 eu-west1-aws.duplex.sc-gw.com
 0.0.0.0 snapchat-proxy.appspot.com
 #0.0.0.0 aws.api.snapchat.com #Anrufe, Map Stories
 
